@@ -24,6 +24,6 @@ public class MisMatematicas
 	//adios muy buenas
 	
 	
-	asd
+	//asd
 
 }
